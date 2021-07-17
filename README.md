@@ -4,3 +4,5 @@ A simple Python script for Arch Linux to automatically update ungoogled-chromium
 requires:
   1. requests (python-requests)
   2. beautifulsoup (python-beautifulsoup4)
+
+No longer maintained as I don't use Arch Linux anymore.
